@@ -1,0 +1,15 @@
+
+
+body {
+
+-webkit-box-shadow: 10px 10px 23px -6px rgba(0,0,0,0.48);
+-moz-box-shadow: 10px 10px 23px -6px rgba(0,0,0,0.48);
+box-shadow: 10px 10px 23px -6px rgba(0,0,0,0.48);
+margin: 15rem;
+}
+
+
+.body-container{
+    background-color: #e7a61a;
+    border-radius: 2rem;
+}
